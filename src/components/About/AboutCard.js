@@ -13,7 +13,7 @@ function AboutCard() {
             <br />
             Currently I am studying at SMK Metland School Cibitung.
             <br />
-            I took a major that suits me, namely IT major, and I really like eating food out because it is very delicious.
+            I took a major that suits me, namely Dkv major, and I really like eating food out because it is very delicious.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!

@@ -1,8 +1,8 @@
 import React from "react";
 import Card from "react-bootstrap/Card";
 import Button from "react-bootstrap/Button";
-import { CgWebsite } from "react-icons/cg";
-import { BsGithub } from "react-icons/bs";
+import { CgInstagram } from "react-icons/cg";
+import { CgPhotoscan } from "react-icons/cg";
 
 function ProjectCards(props) {
   return (
@@ -14,8 +14,8 @@ function ProjectCards(props) {
           {props.description}
         </Card.Text>
         <Button variant="primary" href={props.ghLink} target="_blank">
-          <BsGithub /> &nbsp;
-          {props.isBlog ? "Blog" : "GitHub"}
+          <CgPhotoscan/> &nbsp;
+          {props.isBlog ? "Blog" : "Picture"}
         </Button>
         {"\n"}
         {"\n"}
@@ -29,8 +29,8 @@ function ProjectCards(props) {
             target="_blank"
             style={{ marginLeft: "10px" }}
           >
-            <CgWebsite /> &nbsp;
-            {"Demo"}
+            <CgInstagram/> &nbsp;
+            {"Instagram"}
           </Button>
         )}
       </Card.Body>

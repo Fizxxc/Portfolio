@@ -5,7 +5,7 @@ import Particle from "../Particle";
 import leaf from "../../Assets/Projects/leaf.png";
 import emotion from "../../Assets/Projects/emotion.png";
 import editor from "../../Assets/Projects/codeEditor.png";
-import chatify from "../../Assets/Projects/chatify.png";
+import chatify from "../../Assets/Projects/projectt1.png";
 import suicide from "../../Assets/Projects/suicide.png";
 import bitsOfCode from "../../Assets/Projects/blog.png";
 
@@ -25,10 +25,11 @@ function Projects() {
             <ProjectCard
               imgPath={chatify}
               isBlog={false}
-              title="Chatify"
-              description="Personal Chat Room or Workspace to share resources and hangout with friends build with react.js, Material-UI, and Firebase. Have features which allows user for realtime messaging, image sharing as well as supports reactions on messages."
-              ghLink="https://github.com/soumyajit4419/Chatify"
-              demoLink="https://chatify-49.web.app/"
+              title="GFX Design"
+              description="GFX (Graphic Effects) typically refer to visual elements used in media such as videos, websites, games, and other digital content to enhance the overall appearance or provide dynamic visual interaction. These effects can range from simple transitions and animations to complex visual manipulations. 
+              Here's a breakdown of common types of GFX:"
+              ghLink="https://deposit.pictures/p/83c4ae74ff164a5dbb3f5308718facaf"
+              demoLink="https://www.instagram.com/p/DCdm3rmJCPq/?igsh=MW5lanppN3Q1eXZ1dA=="
             />
           </Col>
 
