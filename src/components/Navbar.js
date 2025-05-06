@@ -94,11 +94,11 @@ function NavBar() {
 
             <Nav.Item>
               <Nav.Link
-                href=" https://fizxxc.github.io/cht/"
+                href="https://kokocii.netlify.app"
                 target="_blank"
                 rel="noreferrer"
               >
-                <BiBot style={{ marginBottom: "2px" }} /> Chat Bot
+                <BiBot style={{ marginBottom: "2px" }} /> CS Bot
               </Nav.Link>
             </Nav.Item>
 
