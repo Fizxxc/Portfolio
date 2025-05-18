@@ -98,7 +98,7 @@ function NavBar() {
                 target="_blank"
                 rel="noreferrer"
               >
-                <BiBot style={{ marginBottom: "2px" }} /> CS Bot
+                <BiBot style={{ marginBottom: "2px" }} /> XO AI
               </Nav.Link>
             </Nav.Item>
 
