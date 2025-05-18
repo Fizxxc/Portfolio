@@ -94,7 +94,7 @@ function NavBar() {
 
             <Nav.Item>
               <Nav.Link
-                href="https://kokocii.netlify.app"
+                href="https://xo-ai-release.vercel.app/"
                 target="_blank"
                 rel="noreferrer"
               >
