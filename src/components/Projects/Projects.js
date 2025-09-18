@@ -3,7 +3,7 @@ import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 import leaf from "../../Assets/Projects/pf.jpg";
-import emotion from "../../Assets/Projects/pf2.jpg";
+import emotion from "../../Assets/Projects/project5.jpg";
 import editor from "../../Assets/Projects/posterr.png";
 import chatify from "../../Assets/Projects/projectt1.png";
 import suicide from "../../Assets/Projects/pf2.jpg";
@@ -77,16 +77,16 @@ function Projects() {
             />
           </Col>
 
-          {/* <Col md={4} className="project-card">
+          <Col md={4} className="project-card">
             <ProjectCard
               imgPath={emotion}
               isBlog={false}
-              title="-"
-              description=""
+              title="Parfume Design"
+              description="Mengubah ide menjadi seni visual yang memikat. Saya membantu merek dan individu untuk bercerita tanpa kata melalui desain yang kreatif dan penuh makna. Mari wujudkan visi Anda."
               ghLink="https://github.com/soumyajit4419/Face_And_Emotion_Detection"
               // demoLink="https://blogs.soumya-jit.tech/"      <--------Please include a demo link here 
             />
-          </Col> */}
+          </Col>
         </Row>
       </Container>
     </Container>
